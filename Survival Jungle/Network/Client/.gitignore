@@ -1,0 +1,11 @@
+/Client.class
+/ClientBroadcast.class
+/ServerDiscovery.class
+/ClientDiscovery.class
+/ClientDiscover.class
+/ClientDiscoverySend.class
+/ClientDiscoveryReceive.class
+/ClientConnect.class
+/ClientReceiver.class
+/ClientSender.class
+/DiscoveredServer.class
